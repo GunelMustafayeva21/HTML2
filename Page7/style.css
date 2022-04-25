@@ -1,0 +1,18 @@
+table{
+    
+    font-display: block;
+    margin:0 auto;
+    position: absolute;
+    bottom:100px;
+    left: 200px;
+    
+}
+th, td{
+    font-size: x-large;
+    border: 2px solid black 
+}
+
+tr {
+    text-align: center;
+}
+
